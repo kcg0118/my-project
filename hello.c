@@ -3,6 +3,7 @@
 int main()
 {
 	printf("hello git\n");
+	printf("hello intel\n");
 
 
 	return 0;
